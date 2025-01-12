@@ -15,6 +15,9 @@
 ![Next.js](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
+### Cloud
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![Contabo](https://img.shields.io/badge/Contabo-00AAEB?style=for-the-badge&logo=Contabo&logoColor=white)
 
 ## Stats
 [![wakatime](https://wakatime.com/badge/user/4535f64b-bfa6-4aeb-ac8d-3f5944b9745f.svg)](https://wakatime.com/@4535f64b-bfa6-4aeb-ac8d-3f5944b9745f)
