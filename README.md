@@ -19,6 +19,6 @@
 ## Stats
 [![wakatime](https://wakatime.com/badge/user/4535f64b-bfa6-4aeb-ac8d-3f5944b9745f.svg)](https://wakatime.com/@4535f64b-bfa6-4aeb-ac8d-3f5944b9745f)
 <div>
-   <img alt="Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=manaken0522&theme=dark" />
-   <img alt="Top Langs" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manaken0522&layout=compact&theme=dark" />
+   <img alt="Stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=manaken0522&theme=dark" />
+   <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manaken0522&layout=compact&theme=dark" />
 </div>
