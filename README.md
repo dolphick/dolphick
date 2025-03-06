@@ -1,4 +1,4 @@
-# [manaken0522](https://manaken0522.com)
+# [dolphick](https://dolphick.com)
 
 ## Environment
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -22,6 +22,6 @@
 ## Stats
 [![wakatime](https://wakatime.com/badge/user/4535f64b-bfa6-4aeb-ac8d-3f5944b9745f.svg)](https://wakatime.com/@4535f64b-bfa6-4aeb-ac8d-3f5944b9745f)
 <div>
-   <img alt="Stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=manaken0522&theme=dark" />
-   <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manaken0522&layout=compact&theme=dark" />
+   <img alt="Stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=dolphick&theme=dark" />
+   <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dolphick&layout=compact&theme=dark" />
 </div>
